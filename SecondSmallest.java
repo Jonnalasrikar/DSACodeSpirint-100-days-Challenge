@@ -12,4 +12,4 @@ class SecondSmallest {
     }
     System.out.println("Seconf smallest element is " + secondsmallest);
   }
-}
+}nd
